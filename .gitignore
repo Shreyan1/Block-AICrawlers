@@ -1,0 +1,6 @@
+.venv
+blockaicrawlers.egg-info
+dist
+pyproject.toml
+MANIFEST.in
+__pycache__
