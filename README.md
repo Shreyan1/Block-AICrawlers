@@ -1,6 +1,6 @@
-# 🤖 ConfusedAICrawlers
+# 🤖 BlockAICrawlers
 
-**ConfusedAICrawlers** is a lightweight Flask extension designed to detect and block AI web crawlers using their User-Agent strings.
+**BlockAICrawlers** is a lightweight Flask extension designed to detect and block AI web crawlers using their User-Agent strings.
 
 It supports a customizable JSON configuration for blacklisting or whitelisting crawlers, integrates seamlessly with `flask-limiter` for rate limiting, and includes a simple admin route for reloading configurations without restarting your app.
 
